@@ -13,7 +13,7 @@ bunu da şu şekilde yaptık:
   9. ile 25. tur arasındaki hard lastiker ile yaptığı tüm turları sildik
   bulduğumuz bu ortalama medium sürelerini kulladığı hard lastiklerin yerine koyduk.
 
-Tur başına ve genel olarak Medium çok fazla süre kaybettirdi.
+Tur başına ve genel olarak Medium çok fazla süre kaybettirdi.  
 Elimizdeki verilerle Reel zamanda yapılan pitstop stratejisinin doğru olduğu sonucuna ulaştık
 
 NOT: F1 bir drama sahnesidir. Her zaman ne olacağını bilemeyiz. Elimizdeki veriler sadece tahmin içermekte. Bundan ötürü frenaj, kayma gibi faktörlerin bu sonucu değiştirebileceğini bilmemiz gerekir!
